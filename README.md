@@ -1,7 +1,7 @@
 # aplikasi-login
 berkas untuk login
 
-step you must follow:
+step you must follow home:
 
 1)hahaha
 
